@@ -1,0 +1,14 @@
+[user0]
+new iPhone - $1000
+Laptop - $500
+END
+[user1]
+transact1 - $250
+transact2 - $10
+END
+[user2]
+transact1 - $250
+transact2 - $10
+new iPhone - $1000
+Laptop - $500
+END
