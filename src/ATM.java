@@ -7,18 +7,14 @@ public class ATM {
     public static void main(String[] args) throws IOException {
 
         System.out.println("[First Project]");
+        System.out.println("_______________________");
         System.out.println("[ATM Machine]");
+        System.out.println("_______________________");
         String usernameInput = login();
         System.out.println("[Transactions]");
         listTransactions(usernameInput);
         System.out.println(" ");
-        System.out.println(" ");
-        System.out.println(" ");
-        System.out.println(" ");
-        System.out.println(" ");
-        System.out.println(" ");
-
-
+        System.out.println("_______________________");
         System.out.println("Please come back again!");
 
     }
