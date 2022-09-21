@@ -1,5 +1,6 @@
-[user0]
+[admin]
 new iPhone - $1000
+create
 Laptop - $500
 END
 [user1]
@@ -11,4 +12,6 @@ transact1 - $250
 transact2 - $10
 new iPhone - $1000
 Laptop - $500
+END
+[user3]
 END
