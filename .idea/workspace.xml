@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee0ae8bd-e600-4ea5-821a-ea5e65102b09" name="Changes" comment="added some extra projects that I am working on for fun">
-      <change afterPath="$PROJECT_DIR$/src/Transactions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ee0ae8bd-e600-4ea5-821a-ea5e65102b09" name="Changes" comment="added the ability to create an account">
       <change beforePath="$PROJECT_DIR$/src/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Transactions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transactions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accounts.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/accounts.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663392841275</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added the ability to create an account">
+      <created>1663778504212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663778504212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added some extra projects that I am working on for fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some extra projects that I am working on for fun" />
+    <MESSAGE value="added the ability to create an account" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the ability to create an account" />
   </component>
 </project>

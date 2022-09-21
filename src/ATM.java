@@ -14,6 +14,7 @@ public class ATM {
         System.out.println("[Main Menu]");
         boolean choicestllGo = true;
         String usernameInput = null;
+
         while (choicestllGo) {
             System.out.print("What would you like to do?\n" +
                     "1. Login\n" +
@@ -37,6 +38,8 @@ public class ATM {
                 System.out.println("Invalid response. Please make sure you use a number.");
             }
         }
+
+
         choicestllGo = true;
         while (choicestllGo) {
             System.out.print("Welcome " + usernameInput + "! " +
@@ -59,6 +62,7 @@ public class ATM {
         System.out.println("Please come back again!");
 
     }
+
     public static String login() throws FileNotFoundException {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your username: ");
